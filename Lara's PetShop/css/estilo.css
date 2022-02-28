@@ -1,0 +1,89 @@
+﻿body{
+	margin:0;
+	}
+div.bg {
+	margin-left:50px;
+	margin-top:150px;
+	position:absolute;
+	width:30%;
+	height:30%;
+	background-repeat:no-repeat;
+	border-radius:10px;
+	
+}
+
+div#imagem2{
+	background-image:url(../img/veterinario.jpg);
+
+}
+div#imagem1{
+	background-image:url(../img/pic2.jpg);
+
+}
+div#imagem3{
+	background-image:url(../img/portada.png);
+
+}
+div#imagem4{
+	background-image:url(../img/25.jpg);
+
+}
+div#imagem5{
+	background-image:url(../img/amigo.jpg);
+
+}
+div#imagem6{
+	background-image:url(../img/vet.png);
+
+}
+div#imagem7{
+	background-image:url(../img/er.png);
+
+}
+#h6{
+font-size:70px;
+position:absolute;
+text-align:center;
+margin-left:10%;
+margin-top:35px;
+color:Black;
+
+}
+p{
+position:absolute;
+margin-right:20px;
+margin-top:150px;
+text-align:justify;
+font-size:20px;
+margin-left:480px;
+}
+#p1{
+position:absolute;
+margin-right:20px;
+margin-top:220px;
+text-align:justify;
+font-size:20px;
+margin-left:480px;
+}
+#p2{
+position:absolute;
+margin-right:20px;
+margin-top:270px;
+text-align:justify;
+font-size:20px;
+margin-left:480px;
+}
+#p3{
+position:absolute;
+margin-right:20px;
+margin-top:300px;
+text-align:justify;
+font-size:20px;
+margin-left:480px;
+}
+#foto{
+background-image:url(../img/catdog.jpg);
+background-size:100% 600px; 
+background-repeat:no-repeat;
+background-attachment:fixed;
+}

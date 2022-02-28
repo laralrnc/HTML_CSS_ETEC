@@ -1,0 +1,15 @@
+body{
+	margin:0;
+	}
+div.bg {
+	position:absolute;
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	margin-left: 500px;
+}
+
+div#imagem5{
+	background-image:url(../img/e.gif);
+
+}

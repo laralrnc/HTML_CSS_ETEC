@@ -1,0 +1,41 @@
+body{
+	margin:0;
+	}
+div.bg {
+	position:absolute;
+	width:80%;
+	height:700px;
+	background-repeat:no-repeat;
+}
+div#imagem1{
+	background-image:url(../img/a.jpg);
+
+}
+div#imagem2{
+	background-image:url(../img/b.png);
+
+}
+div#imagem3{
+	background-image:url(../img/c.jpg);
+
+}
+div#imagem4{
+	background-image:url(../img/d.jpg);
+
+}
+div#imagem5{
+	background-image:url(../img/e.jpg);
+
+}
+div#imagem6{
+	background-image:url(../img/f.jpg);
+
+}
+div#imagem7{
+	background-image:url(../img/g.jpg);
+
+}
+div#imagem8{
+	background-image:url(../img/h.jpg);
+
+}

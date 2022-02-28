@@ -1,0 +1,65 @@
+body{
+	background-color:white;
+	
+	
+	
+}
+label{
+	color:black;
+	display:inline-block; 
+	font-size:20px;  
+	font-weight:bold; 
+	width:200px;  
+}
+form{
+	color:white;
+	
+}
+
+input:focus + .hint{
+	display: inline-block; 
+	
+
+}
+#botao {
+	background-color:black;
+	border: 1px solid #aaa;
+	border-radius: 13px;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 5px 10px;
+}
+
+
+legend{
+	text-align:left;
+	font-size:30px;
+	font-weight:bold;
+	color:black;
+	
+}
+
+	
+
+#titulo {
+	font-size: 60px;
+	color:white;
+	
+}
+#principal {
+	width:500px;
+	
+	
+}
+#esc {
+	margin-right:40px;
+	
+}
+#foto{
+background-image:url(../img/catdog.jpg);
+background-size:100% 600px; 
+background-repeat:no-repeat;
+background-attachment:fixed;
+}
+
